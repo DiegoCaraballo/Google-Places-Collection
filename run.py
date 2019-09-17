@@ -76,8 +76,7 @@ def getKeywords(csv_file):
 
 def main():
     try:
-
-
+        
         print("Please Wait...")
 
         # List Keyword - input-file.csv
